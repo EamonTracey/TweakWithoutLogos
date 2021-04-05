@@ -7,7 +7,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = TweakWithLogos
 
-TweakWithLogos_FILES = Tweak.x
+TweakWithLogos_FILES = $(shell find Logos -name "*.x")
 TweakWithLogos_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
