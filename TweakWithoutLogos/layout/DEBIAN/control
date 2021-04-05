@@ -2,7 +2,7 @@ Package: com.eamontracey.tweakwithoutlogos
 Name: TweakWithoutLogos
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Example substrate tweak built with Xcode autocompletion
+Description: An example substrate tweak made without Logos
 Maintainer: Eamon Tracey
 Author: Eamon Tracey
 Section: Tweaks
