@@ -2,7 +2,7 @@
 
 ## Explanation
 
-Most iOS tweak developers use Logos, an Objective-C preprocessor, to simplify the tweak writing process. Logos converts directives such as `%hook`, `%new`, `%ctor`, `%init`, etc. into pure Objective-C code that interfaces with substrate to hook code at runtime. This repository includes two functionally identical tweaks. However, one uses Logos and one does not.
+Most iOS tweak developers use Logos, an Objective-C preprocessor, to simplify the tweak writing process. Logos converts directives such as `%hook`, `%new`, `%ctor`, `%init`, etc. into pure Objective-C code that interfaces with substrate to hook code at runtime. This repository includes two functionally identical tweaks. They both add a "Da" prefix to all icon labels on the Home Screen. However, one uses Logos and one does not.
 
 ## The Argument Against Logos
 
