@@ -17,4 +17,4 @@ Logos is great. It does the confusing dirty work of substrate for you, allowing 
 ## Final Verdict
 
 If you develop tweaks on Linux or Windows, using Logos is likely the better, easier option. While directly calling substrate still has its benefits, these benefits will rarely be used.
-If you develop on macOS, and thus have access to Xcode, I say ditch Logos. Writing hundreds or thousands of lines of Objective-C code in any other IDE is, in my personal experience, much worse. Xcode is awesome for iOS development, so use its awesomeness.
+If you develop on macOS, and thus have access to Xcode, I say ditch Logos. Writing hundreds or thousands of lines of Objective-C code in any other IDE is, in my personal experience, much less enjoyable. Xcode is awesome for iOS development, so use its awesomeness.
